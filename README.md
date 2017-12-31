@@ -1,6 +1,6 @@
 # shape-detection-open-cv
 
-My code for detecting shapes in an image with black background wriiten in c++/opencv .
+My code for detecting shapes in an image with black background written in c++/opencv .
 
 **Input Image**
 ![Input Image](https://raw.githubusercontent.com/vaithak/shape-detection-open-cv/master/shapes.jpg)
